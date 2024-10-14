@@ -1,7 +1,7 @@
 # UCI-HAR-Analysis
 
 ## Human Activity Recognition Using Smartphones - Data Cleaning Project
-"Getting and Cleaning Data" Course Project.
+Getting and Cleaning Data Course Project.
 
 ## Files
 README.md: This documentation explains the project and how to use the scripts.
