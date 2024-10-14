@@ -14,5 +14,5 @@ Download the run_analysis.R script to your R working directory.
 Run this script in R or RStudio.
 The script reads the dataset, downloads it, cleans up surplus items, and creates a tidy dataset. You'll find the tidy_data.txt file in your working directory.
 
-##Dependencies
+## Dependencies
 The script requires the dplyr and tidyr libraries. If not already installed, it will try to install them.
